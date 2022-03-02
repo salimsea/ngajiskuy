@@ -93,6 +93,7 @@ body {
     width: 55%;
     padding: 10px 10px 10px 10px;
     height: 74px;
+    cursor: pointer;
 }
 
 .btn-ngaji span {
@@ -307,6 +308,7 @@ body {
     width: 60%;
     padding: 10px 10px 10px 10px;
     height: 66px;
+    cursor: pointer;
 }
 
 .doc .btn-ngaji span {
